@@ -25,7 +25,7 @@ I plan to execute these steps over 5 days to complete my project.
   - Implement `get_stock_prices`: A tool to fetch current market data.
   - Implement `search_market_news`: A tool to retrieve relevant financial news.
 
-- [TODO] **Day 3: Node Logic & Agents**
+- [DONE] **Day 3: Node Logic & Agents**
   - Build the `DataCollector` node to execute tools.
   - Build the `FinancialAnalyst` node to process data and generate insights.
 
