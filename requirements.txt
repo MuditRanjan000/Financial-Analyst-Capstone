@@ -6,3 +6,4 @@ tavily-python
 python-dotenv
 ipykernel
 yfinance
+rich
